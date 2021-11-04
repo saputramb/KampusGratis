@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36215335171",
+    "project_id": "kampus-gratis2",
+    "storage_bucket": "kampus-gratis2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36215335171:android:96254011eddfc9593aa136",
+        "android_client_info": {
+          "package_name": "com.example.kampus_gratis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36215335171-h8vmkdsao57cb87giq2nvjc5vkt90n07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7xMlk09-Skzzr-Jt77ZQEFPYSX8VcsLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36215335171-h8vmkdsao57cb87giq2nvjc5vkt90n07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
